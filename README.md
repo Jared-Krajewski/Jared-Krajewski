@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome 👋👋🏿👋🏽👋🏻👋🏾👋🏼, I'm Jared Krajewski
 
-<!--
-**Jared-Krajewski/Jared-Krajewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a  full-stack JavaScript developer passionate about building innovative web applications with a focus on user experience, accessability and functionality. I am a self taught MERN stack developer. Currently I am volunteering for a Portland civic coding organization working organizational improvement, re-vamping their [website](https://github.com/codeforpdx/codepdx_website). Additionally I am working on a project called [PASS](https://github.com/codeforpdx/PASS) which aims to assist home insecure individuals with document retention for civil assistance applications using de-centralized data storage to keep the user in control of their documents.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I'm currently volunteering as a full-stack developer.
+- 🌱 I'm constantly learning and improving my skills and mindset.
+- 💬 Let's connect and collaborate and use tech to make a difference.
+
+## Tech Stack
+
+- 💻 **Frontend:** MUI, React HTML, CSS, Bootstrap.
+- 🌐 **Backend:** Node.js, Express
+- 🛢️ **Database:** MongoDB, SQL, SOLID(decentralized data)
+- 🚀 **Other Tools:** Git/Github, REST APIs, AWS, Figma, Discord, VS code, Google suite, Slack, Zoom.
+
+## Projects
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/jared-krajewski-13805a256/)
+- [Email](krajewski.jared@gmail.com)
+
+Feel free to reach out if you have any questions, want to collaborate on a project, or just to say hi!
