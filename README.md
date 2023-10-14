@@ -15,8 +15,6 @@ I'm a  full-stack JavaScript developer passionate about building innovative web 
 - 🛢️ **Database:** MongoDB, SQL, SOLID(decentralized data)
 - 🚀 **Other Tools:** Git/Github, REST APIs, AWS, Figma, Discord, VS code, Google suite, Slack, Zoom.
 
-## Projects
-
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/jared-krajewski-13805a256/)
