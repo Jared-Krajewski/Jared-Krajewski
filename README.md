@@ -1,6 +1,6 @@
 # Welcome 👋👋🏿👋🏽👋🏻👋🏾👋🏼, I'm Jared Krajewski
 
-I'm a  full-stack JavaScript developer passionate about building innovative web applications with a focus on user experience, accessability and functionality. I am a self taught MERN stack developer. Currently I am volunteering for a Portland civic coding organization working organizational improvement, re-vamping their [website](https://github.com/codeforpdx/codepdx_website). Additionally I am working on a project called [PASS](https://github.com/codeforpdx/PASS) which aims to assist home insecure individuals with document retention for civil assistance applications using de-centralized data storage to keep the user in control of their documents.
+I'm a  full-stack JavaScript developer passionate about building innovative web applications with a focus on user experience, accessibility and functionality. I am a self taught MERN stack developer. Currently I am volunteering for a Portland civic coding organization working organizational improvement, re-vamping their [website](https://github.com/codeforpdx/codepdx_website). Additionally I am working on a project called [PASS](https://github.com/codeforpdx/PASS) which aims to assist home insecure individuals with document retention for civil assistance applications using de-centralized data storage to keep the user in control of their documents.
 
 ## About Me
 
