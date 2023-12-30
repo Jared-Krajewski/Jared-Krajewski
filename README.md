@@ -11,7 +11,7 @@ I'm a  full-stack JavaScript developer passionate about building innovative web 
 ## Tech Stack
 
 - 💻 **Frontend:** MUI, React HTML, CSS, Bootstrap.
-- 🌐 **Backend:** Node.js, Express
+- 🌐 **Backend:** Node.js, Express, Docker, Nginx.
 - 🛢️ **Database:** MongoDB, SQL, SOLID(decentralized data)
 - 🚀 **Other Tools:** Git/Github, REST APIs, AWS, Figma, Discord, VS code, Google suite, Slack, Zoom.
 
