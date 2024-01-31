@@ -6,7 +6,7 @@ I'm a  full-stack JavaScript developer passionate about building innovative web 
 
 - 💼 I'm currently volunteering as a full-stack developer.
 - 🌱 I'm constantly learning and improving my skills and mindset.
-- 💬 Let's connect and collaborate and use tech to make a difference.
+- 💬 Let's connect, collaborate and use tech to make a difference.
 
 ## Tech Stack
 
