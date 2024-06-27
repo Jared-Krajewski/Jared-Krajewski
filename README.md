@@ -4,7 +4,7 @@ I'm a  full-stack JavaScript developer passionate about building innovative web 
 
 ## About Me
 
-- 💼 I'm currently volunteering as a full-stack developer.
+- 💼 I'm currently volunteering & working as a full-stack developer.
 - 🌱 I'm constantly learning and improving my skills and mindset.
 - 💬 Let's connect, collaborate and use tech to make a difference.
 
@@ -13,7 +13,7 @@ I'm a  full-stack JavaScript developer passionate about building innovative web 
 - 💻 **Frontend:** MUI, React HTML, CSS, Bootstrap.
 - 🌐 **Backend:** Node.js, Express, Docker, Nginx, EdgeX.
 - 🛢️ **Database:** MongoDB, SQL, SOLID(decentralized data), REDIS, InfluxDB.
-- 🚀 **Other Tools:** Git/Github, REST APIs, AWS, Figma, Discord, VS code, Google suite, Slack, Zoom.
+- 🚀 **Other Tools:** Docker, Git/Github, REST API, AWS, Figma, Discord, VS code, Google suite, Slack, Zoom.
 
 ## Get in Touch
 
