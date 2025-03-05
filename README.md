@@ -20,4 +20,4 @@ I'm a  full-stack developer passionate about building innovative web application
 - [LinkedIn](https://www.linkedin.com/in/jared-krajewski-13805a256/)
 - [Email](krajewski.jared@gmail.com)
 
-Feel free to reach out if you have any questions, want to collaborate on a project, or just to say hi!
+Feel free to reach out if you have any questions, want to collaborate on a project, or just to say hi! But please, link your github so I know its not a bot or spam 😅
