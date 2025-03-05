@@ -10,10 +10,11 @@ I'm a  full-stack developer passionate about building innovative web application
 
 ## Tech Stack
 
+- 💬 **Languages** Javascript, C++, Python, Go, shell.
 - 💻 **Frontend:** MUI, React HTML, CSS, Bootstrap, tailwind, daisyUI.
 - 🌐 **Backend:** Node.js, Express, Docker, Nginx, EdgeX.
 - 🛢️ **Database:** MongoDB, SQL, SOLID(decentralized data), REDIS, InfluxDB.
-- 🚀 **Other Tools:** Arduino, Ansible, Git/Github, REST API, AWS, Figma, Discord, VS code, Google suite, Slack, Zoom.
+- 🚀 **Other Tools:** Arduino, Ansible, Git/Github, REST API, AWS, Postman, Insomnia, VirtualBox, Figma, Discord, VS code, Google suite, Slack, Zoom.
 
 ## Get in Touch
 
