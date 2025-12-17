@@ -1,20 +1,22 @@
-# Welcome 👋👋🏿👋🏽👋🏻👋🏾👋🏼, I'm Jared Krajewski
+# Jared Krajewski | Full Stack & IoT Software Engineer 🚀
 
-I'm a full-stack developer passionate about building innovative web and IOT applications with a focus on user experience, accessibility and scaleable functionality. I am currently seeking my next developmer role. In my free time I volunteer for a Portland civic coding organization, [code pdx](https://www.codepdx.org) working organizational improvement, re-designing and building their new [website](https://github.com/codeforpdx/codepdx_website). Additionally I assisted code PDX in development of [PASS](https://github.com/codeforpdx/PASS) which aims to assist home insecure individuals with document retention for civil assistance applications using de-centralized data storage to keep the user in control of their documents. In my free time I have various side projects I am working on as well as exploring CAD, game development and developing an offline LLM smartphone application.
+I'm a full-stack software engineer with 5 years of experience in architecting and delivering web and IoT applications currently seeking my next role. I specialize in innovative design, full-stack development, DevOps, CI/CD pipeline automation, and Linux web server management. I leverage a unique blend of analytical thinking and critical problem-solving honed through my background as a former paramedic.
+
+In my free time I volunteer for a Portland civic coding org, [code pdx](https://www.codepdx.org), working on various side projects, as well as exploring CAD, and game development.
 
 ## About Me
 
-- 💼 I'm currently volunteering & working as a full-stack developer.
+- 💼 I'm currently seeking my next role as a full-stack developer.
 - 🌱 I'm constantly learning and improving my skills and mindset.
 - 💬 Let's connect, collaborate and use tech to make a difference.
 
 ## Tech Stack
 
-- 💬 **Languages** Javascript, C++, Python, Go, shell.
-- 💻 **Frontend:** MUI, React HTML, CSS, Bootstrap, tailwind, daisyUI.
-- 🌐 **Backend:** Node.js, Express, Docker, Nginx, EdgeX.
+- 💬 **Languages** Javascript, Typescript, C++, Python, Go, shell.
+- 💻 **Frontend:** MUI, React, React Native, HTML, CSS, Bootstrap, Tailwind, DaisyUI.
+- 🌐 **Backend:** Node.js, Express, Docker, Nginx, EdgeX, Express, Google Cloud, Supabase.
 - 🛢️ **Database:** MongoDB, SQL, SOLID(decentralized data), REDIS, InfluxDB.
-- 🚀 **Other Tools:** Arduino, Ansible, Git/Github, REST API, AWS, Postman, Insomnia, VirtualBox, Figma, Discord, VS code, Google suite, Slack, Zoom.
+- 🚀 **Other Tools:** Arduino, Ansible, Expo, Git/Github, REST API, Vercel, AWS, Postman, Insomnia, Linux, VirtualBox, Figma, Discord, VS code, Google suite, Slack, Zoom.
 
 ## Get in Touch
 
