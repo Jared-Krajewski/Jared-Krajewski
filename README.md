@@ -20,6 +20,7 @@ In my free time I volunteer for a Portland civic coding org, [code pdx](https://
 
 ## Get in Touch
 
+- [jaredkrajewski.com](https://www.jaredkrajewski.com/)
 - [LinkedIn](https://www.linkedin.com/in/jared-krajewski-13805a256/)
 - [Email](krajewski.jared@gmail.com)
 
