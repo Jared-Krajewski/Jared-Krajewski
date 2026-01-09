@@ -6,8 +6,6 @@ Before software engineering, I worked as a paramedic. That background shapes how
 
 Outside of work, I volunteer with a Portland civic coding organization, [Code PDX](https://www.codepdx.org), and spend time exploring embedded systems, CAD, and game development.
 
----
-
 ## Focus Areas
 
 - Backend services and API development  
@@ -15,8 +13,6 @@ Outside of work, I volunteer with a Portland civic coding organization, [Code PD
 - CI/CD automation and operational reliability  
 - IoT and edge systems integration  
 - Production systems that interact with the physical world  
-
----
 
 ## Tech Stack
 
@@ -31,12 +27,6 @@ Outside of work, I volunteer with a Portland civic coding organization, [Code PD
 - 🚀 **Hardware & Edge:** Arduino, Ansible, Expo, Git/Github, REST API, Vercel, AWS, Postman, Insomnia, Linux, VirtualBox, Figma, Discord, VS code, Google suite, Slack, Zoom.
 
 ---
-
-## Get in Touch
-
-- 🌐 [jaredkrajewski.com](https://www.jaredkrajewski.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jared-krajewski/)
-- 📧 [krajewski.jared@gmail.com](mailto:krajewski.jared@gmail.com)
 
 Feel free to reach out if you have any questions or want to collaborate on a project. But please, link your github.
 
