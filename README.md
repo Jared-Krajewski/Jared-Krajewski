@@ -1,27 +1,43 @@
-# Jared Krajewski | Full Stack & IoT Software Engineer 🚀
+# Jared Krajewski | Backend & Systems Software Engineer 🚀
 
-I'm a full-stack software engineer with 5 years of experience in architecting and delivering web and IoT applications currently seeking my next role. I specialize in innovative design, full-stack development, DevOps, CI/CD pipeline automation, and Linux web server management. I leverage a unique blend of analytical thinking and critical problem-solving honed through my background as a former paramedic.
+Backend-focused software engineer with 4+ years of experience building, deploying, and operating production systems that span software, infrastructure, and hardware. I specialize in backend services, API development, Linux-based deployments, and Docker-driven CI/CD, with hands-on experience supporting live pilots and real-world systems.
 
-In my free time I volunteer for a Portland civic coding org, [code pdx](https://www.codepdx.org), working on various side projects, as well as exploring CAD, and game development.
+Before software engineering, I worked as a paramedic. That background shapes how I approach systems today: reliability matters, failures are expensive, and clear communication under pressure is non-negotiable.
 
-## About Me
+Outside of work, I volunteer with a Portland civic coding organization, [Code PDX](https://www.codepdx.org), and spend time exploring embedded systems, CAD, and game development.
 
-- 💼 I'm currently seeking my next role as a full-stack developer.
-- 🌱 I'm constantly learning and improving my skills and mindset.
-- 💬 Let's connect, collaborate and use tech to make a difference.
+---
+
+## Focus Areas
+
+- Backend services and API development  
+- Linux-based infrastructure and Dockerized deployments  
+- CI/CD automation and operational reliability  
+- IoT and edge systems integration  
+- Production systems that interact with the physical world  
+
+---
 
 ## Tech Stack
 
-- 💬 **Languages** Javascript, Typescript, C++, Python, Go, shell.
-- 💻 **Frontend:** MUI, React, React Native, HTML, CSS, Bootstrap, Tailwind, DaisyUI.
-- 🌐 **Backend:** Node.js, Express, Docker, Nginx, EdgeX, Express, Google Cloud, Supabase.
-- 🛢️ **Database:** MongoDB, SQL, SOLID(decentralized data), REDIS, InfluxDB.
-- 🚀 **Other Tools:** Arduino, Ansible, Expo, Git/Github, REST API, Vercel, AWS, Postman, Insomnia, Linux, VirtualBox, Figma, Discord, VS code, Google suite, Slack, Zoom.
+- 💬 **Languages:** Go, TypeScript, JavaScript, Python, C++, Shell  
+
+- 🌐 **Backend & Systems:** REST APIs, Node.js, Bun, Docker, Nginx, Linux, EdgeX Foundry, MQTT, Supabase, Google Cloud
+
+- 🛢️ **Data:** SQL (MariaDB), InfluxDB, Redis  
+
+- 💻 **Frontend (supporting):** React, React Native, Tailwind CSS  
+
+- 🚀 **Hardware & Edge:** Arduino, Ansible, Expo, Git/Github, REST API, Vercel, AWS, Postman, Insomnia, Linux, VirtualBox, Figma, Discord, VS code, Google suite, Slack, Zoom.
+
+---
 
 ## Get in Touch
 
-- [jaredkrajewski.com](https://www.jaredkrajewski.com/)
-- [LinkedIn](https://www.linkedin.com/in/jared-krajewski-13805a256/)
-- [Email](krajewski.jared@gmail.com)
+- 🌐 [jaredkrajewski.com](https://www.jaredkrajewski.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jared-krajewski/)
+- 📧 [krajewski.jared@gmail.com](mailto:krajewski.jared@gmail.com)
 
-Feel free to reach out if you have any questions, want to collaborate on a project, or just to say hi! But please, link your github so I know its not a bot or spam 😅
+Feel free to reach out if you have any questions or want to collaborate on a project. But please, link your github.
+
+If you’re an employer building backend, systems, or IoT-heavy products and value engineers who can own problems end to end, feel free to reach out.
