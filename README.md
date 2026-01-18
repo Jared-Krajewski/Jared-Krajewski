@@ -1,6 +1,6 @@
-# Jared Krajewski | Backend & Systems Software Engineer 🚀
+# Jared Krajewski | Full-Stack & Systems Software Engineer 🚀
 
-Backend-focused software engineer with 4+ years of experience building, deploying, and operating production systems that span software, infrastructure, and hardware. I specialize in backend services, API development, Linux-based deployments, and Docker-driven CI/CD, with hands-on experience supporting live pilots and real-world systems.
+Full-Stack software engineer with 4+ years of experience building, deploying, and operating production systems that span software, infrastructure, and hardware. I specialize in backend services, API development, Linux-based deployments, and Docker-driven CI/CD, with hands-on experience supporting live pilots and real-world systems.
 
 Before software engineering, I worked as a paramedic. That background shapes how I approach systems today: reliability matters, failures are expensive, and clear communication under pressure is non-negotiable.
 
