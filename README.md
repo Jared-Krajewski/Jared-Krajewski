@@ -1,10 +1,12 @@
 # Jared Krajewski | Full-Stack & Systems Software Engineer 🚀
 
-Full-Stack software engineer with 4+ years of experience building, deploying, and operating production systems that span software, infrastructure, and hardware. I specialize in backend services, API development, Linux-based deployments, and Docker-driven CI/CD, with hands-on experience supporting live pilots and real-world systems.
+Full-stack software engineer with 4+ years of experience building, deploying, and operating production systems that span software, infrastructure, and hardware. I focus on backend services, distributed systems, and edge deployments, with hands-on experience supporting real-world pilots and production environments.
 
-Before software engineering, I worked as a paramedic. That background shapes how I approach systems today: reliability matters, failures are expensive, and clear communication under pressure is non-negotiable.
+Before becoming a software engineer, I worked as a paramedic. That experience shaped how I approach systems today: reliability matters, failures have real consequences, and clear communication under pressure is essential.
 
-Outside of work, I volunteer with a Portland civic coding organization, [Code PDX](https://www.codepdx.org), and spend time exploring embedded systems, CAD, and game development.
+I enjoy building systems that interact with the physical world and solving problems that span devices, networks, and backend services.
+
+Outside of work I volunteer with Portland’s civic technology group [Code PDX](https://www.codepdx.org) and spend time exploring embedded systems, CAD, game development, weight lifting, backpacking, golfing, and bouldering.
 
 ## Focus Areas
 
