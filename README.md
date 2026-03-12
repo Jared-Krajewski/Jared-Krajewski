@@ -20,13 +20,13 @@ Outside of work I volunteer with Portland’s civic technology group [Code PDX](
 
 - 💬 **Languages:** Go, TypeScript, JavaScript, Python, C++, Shell  
 
-- 🌐 **Backend & Systems:** REST APIs, Node.js, Bun, Docker, Nginx, Linux, EdgeX Foundry, MQTT, Supabase, Google Cloud
+- 🌐 **Backend & Systems:** REST APIs, Node.js, Bun, Docker, Nginx, Linux, EdgeX Foundry, MQTT, Supabase
 
 - 🛢️ **Data:** SQL (PostgreSQL, Supabase, MariaDB, SQLite), InfluxDB, Redis  
 
 - 💻 **Frontend (supporting):** React, React Native, Tailwind CSS, Grafana
 
-- 🚀 **Hardware & Edge:** Arduino, Ansible, Expo, Git/Github, REST API, Vercel, AWS, Postman, Insomnia, Linux, VirtualBox, Figma, Discord, VS code, Google suite, Slack, Zoom.
+- 🚀 **Hardware & Edge:** Arduino, Ansible, Expo, Git/Github, REST API, Vercel, AWS, GCP, Postman, Linux, VirtualBox, Figma
 
 ---
 
