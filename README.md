@@ -1,8 +1,6 @@
 # Jared Krajewski | Full-Stack & Systems Software Engineer 🚀
 
-Full-stack software engineer with 4+ years of experience building, deploying, and operating production systems that span software, infrastructure, and hardware. I focus on backend services, distributed systems, and edge deployments, with hands-on experience supporting real-world pilots and production environments.
-
-Before becoming a software engineer, I worked as a paramedic. That experience shaped how I approach systems today: reliability matters, failures have real consequences, and clear communication under pressure is essential.
+Former paramedic -> full-stack software engineer with 4+ years of experience building, deploying, and operating production systems that span software, infrastructure, and hardware. I focus on backend services, distributed systems, and edge deployments, with hands-on experience supporting real-world pilots and production environments.
 
 I enjoy building systems that interact with the physical world and solving problems that span devices, networks, and backend services.
 
