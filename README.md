@@ -1,6 +1,6 @@
 # Jared Krajewski | Full-Stack & Systems Software Engineer 🚀
 
-Former paramedic -> full-stack software engineer with 4+ years of experience building, deploying, and operating production systems that span software, infrastructure, and hardware. I focus on backend services, distributed systems, and edge deployments, with hands-on experience supporting real-world pilots and production environments.
+Former paramedic -> full-stack software engineer with 4+ years of experience building, deploying, and operating production web and edge systems that span software, infrastructure, and hardware.
 
 I enjoy building systems that interact with the physical world and solving problems that span devices, networks, and backend services.
 
@@ -16,15 +16,15 @@ Outside of work I volunteer with Portland’s civic technology group [Code PDX](
 
 ## Tech Stack
 
-- 💬 **Languages:** Go, TypeScript, JavaScript, Python, C++, Shell  
+- 💬 **Languages:** Typescript, Javascript, Go, Python, C++, Shell  
 
-- 🌐 **Backend & Systems:** REST APIs, Node.js, Bun, Docker, Nginx, Linux, EdgeX Foundry, MQTT, Supabase
+- 🌐 **Backend & Systems:** REST APIs, Node.js Docker, Nginx, Linux, EdgeX Foundry, MQTT, Supabase
 
 - 🛢️ **Data:** SQL (PostgreSQL, Supabase, MariaDB, SQLite), InfluxDB, Redis  
 
-- 💻 **Frontend (supporting):** React, React Native, Tailwind CSS, Grafana
+- 💻 **Frontend:** React, React Native, Tailwind CSS, Grafana
 
-- 🚀 **Hardware & Edge:** Arduino, Ansible, Expo, Git/Github, REST API, Vercel, AWS, GCP, Postman, Linux, VirtualBox, Figma
+- 🚀 **Hardware & Tools:** Arduino, Ansible, Expo, Git/Github, REST API, Vercel, AWS, GCP, Postman, Linux, VirtualBox, Figma
 
 ---
 
