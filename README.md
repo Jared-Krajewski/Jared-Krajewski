@@ -1,6 +1,6 @@
 # Jared Krajewski | Full-Stack & Systems Software Engineer 🚀
 
-Former paramedic -> full-stack software engineer with 4+ years of experience building, deploying, and operating production web and edge systems that span software, infrastructure, and hardware.
+Former paramedic -> full-stack software engineer with 4+ years of experience building, deploying, and operating production web and edge systems that span people, software, infrastructure, and hardware.
 
 I enjoy building systems that interact with the physical world and solving problems that span devices, networks, and backend services.
 
@@ -8,7 +8,7 @@ Outside of work I volunteer with Portland’s civic technology group [Code PDX](
 
 ## Focus Areas
 
-- Backend services and API development  
+- Full stack Web Development
 - Linux-based infrastructure and Dockerized deployments  
 - CI/CD automation and operational reliability  
 - IoT and edge systems integration  
