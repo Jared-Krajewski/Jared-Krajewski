@@ -1,33 +1,82 @@
-# Jared Krajewski | Full-Stack & Systems Software Engineer 🚀
+## Jared Krajewski
+📍 Portland, OR
 
-Former paramedic -> full-stack software engineer with 4+ years of experience building, deploying, and operating production web and edge systems that span people, software, infrastructure, and hardware.
+Interested in IoT, mobile, infrastructure, and systems that interact with the physical world.
 
-I enjoy building systems that interact with the physical world and solving problems that span devices, networks, and backend services.
+Previously worked in EMS (Volunteer Firefighter -> EMT -> Paramedic) and medical device field service before moving into software.
 
-Outside of work I volunteer with Portland’s civic technology group [Code PDX](https://www.codepdx.org) and spend time exploring embedded systems, CAD, game development, weight lifting, backpacking, golfing, and bouldering.
+Most of what you'll find here falls into one of a few categories:
 
-## Focus Areas
+- Mobile applications
+- IoT and embedded systems
+- Infrastructure and automation
+- GIS and civic technology
+- Games
+- Things that seemed interesting at the time
 
-- Full stack Web Development
-- Linux-based infrastructure and Dockerized deployments  
-- CI/CD automation and operational reliability  
-- IoT and edge systems integration  
-- Production systems that interact with the physical world  
+## 🚀 Projects
+https://jaredkrajewski.com
 
-## Tech Stack
+### 🌲 Trailscale.io 
+https://apps.apple.com/us/app/trailscale/id6761669404
 
-- 💬 **Languages:** Typescript, Javascript, Go, Python, C++, Shell  
+Cross-platform iOS, Android, and Web backpacking gear management and trip planning platform built with React Native and TypeScript.
 
-- 🌐 **Backend & Systems:** REST APIs, Node.js Docker, Nginx, Linux, EdgeX Foundry, MQTT, Supabase
+- Offline-first architecture
+- Interactive gear analytics and visualizations
+- Built for the way I actually pack for trips
 
-- 🛢️ **Data:** SQL (PostgreSQL, Supabase, MariaDB, SQLite), InfluxDB, Redis  
+### 🚂 Is A Train Blocking 12th?
+https://trainstrainstrains.com/
 
-- 💻 **Frontend:** React, React Native, Tailwind CSS, Grafana
+A real-time monitor for one of Portland's most infamous rail crossings.
 
-- 🚀 **Hardware & Tools:** Arduino, Ansible, Expo, Git/Github, REST API, Vercel, AWS, GCP, Postman, Linux, VirtualBox, Figma
+- "Live" camera feeds from ODOT
+- Computer vision and automation
+- Public infrastructure data
+- Built because I got tired of showing up to a train
+
+### 🪐 Planet Game
+https://apps.apple.com/us/app/planet-game-merge-puzzle/id6758787519
+
+An ongoing game development project exploring simulation systems, procedural generation, and interactive worlds.
+
+### 🏋️ Jim
+https://apps.apple.com/us/app/jim-workout-logger/id6766997118
+
+A lightweight workout tracker built around the workflows I wanted but couldn't find elsewhere. Includes a timer that is visible in iPhone dynamic island and lock screen. 
+
+### 🏙️ CodePDX
+https://www.codepdx.org/
+Volunteer software engineer contributing to civic technology projects involving GIS systems, public data, and community infrastructure.
 
 ---
 
-Feel free to reach out if you have any questions or want to collaborate on a project. But please, link your github.
+## 🛠️ Technologies
 
-If you’re an employer building backend, systems, or IoT-heavy products and value engineers who can own problems end to end, feel free to reach out.
+💬 **Languages**
+TypeScript • Python • Go • C++ • Shell
+
+💻 **Frontend & Mobile**
+React • React Native • Expo • D3.js • SVG
+
+🌐 **Backend & Infrastructure**
+Node.js • Linux • Docker • CI/CD • PostgreSQL • InfluxDB • Redis
+
+🚀 **Embedded & IoT**
+ESP32 • Arduino • MQTT • BLE • WiFi
+
+---
+
+## 🔭 Currently Working On
+
+- Improving Trailscale
+- GIS and civic technology projects through CodePDX
+- IoT experiments
+- Game development
+
+---
+
+## ⛰️ Outside of Code
+
+Backpacking, hiking, climbing, stargazing, lifting, golf, aerospace, coffee, music, and the occasional overly ambitious side project.
