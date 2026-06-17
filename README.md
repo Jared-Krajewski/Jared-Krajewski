@@ -46,8 +46,14 @@ https://apps.apple.com/us/app/jim-workout-logger/id6766997118
 
 A lightweight workout tracker built around the workflows I wanted but couldn't find elsewhere. Includes a timer that is visible in iPhone dynamic island and lock screen. 
 
+### 🗺️ PDX Hub
+https://pdxhub.vercel.app/
+
+A real-time interactive map for Portland, OR, aggregating public data from multiple sources. It visualizes live police and fire dispatches, weather and transit alerts, bridge lifts, road closures, water advisories, and nine GIS safety overlays from City of Portland open data.
+
 ### 🏙️ CodePDX
 https://www.codepdx.org/
+
 Volunteer software engineer contributing to civic technology projects involving GIS systems, public data, and community infrastructure.
 
 ---
