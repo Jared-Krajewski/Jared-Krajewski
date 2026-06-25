@@ -5,45 +5,38 @@ Interested in IoT, mobile, infrastructure, and systems that interact with the ph
 
 Previously worked in EMS (Volunteer Firefighter -> EMT -> Paramedic) and medical device field service before moving into software.
 
-Most of what you'll find here falls into one of a few categories:
+You'll find things here like:
 
 - Mobile applications
-- IoT and embedded systems
+- IoT and embedded
 - Infrastructure and automation
 - GIS and civic technology
 - Games
 - Things that seemed interesting at the time
 
-## 🚀 Projects
-https://jaredkrajewski.com
+## 🚀 Projects - https://jaredkrajewski.com
 
-### 🌲 Trailscale.io 
-https://apps.apple.com/us/app/trailscale/id6761669404
+### 🌲 Trailscale.io - https://apps.apple.com/us/app/trailscale/id6761669404
 
 Cross-platform iOS, Android, and Web backpacking gear management and trip planning platform built with React Native and TypeScript.
 
-### 🚂 Is A Train Blocking 12th?
-https://trainstrainstrains.com/
+### 🚂 Is A Train Blocking 12th? - https://trainstrainstrains.com/
 
 A real-time monitor for one of Portland's most infamous rail crossings.
 
-### 🪐 Planet Game
-https://apps.apple.com/us/app/planet-game-merge-puzzle/id6758787519
+### 🪐 Planet Game - https://apps.apple.com/us/app/planet-game-merge-puzzle/id6758787519
 
 An ongoing game development project exploring 2d physics and Unity.
 
-### 🏋️ Jim
-https://apps.apple.com/us/app/jim-workout-logger/id6766997118
+### 🏋️ Jim - https://apps.apple.com/us/app/jim-workout-logger/id6766997118
 
 A lightweight workout tracker built around the workflows I wanted but couldn't find elsewhere. Includes a timer that is visible in iPhone dynamic island and lock screen. 
 
-### 🗺️ PDX Hub
-https://pdxhub.vercel.app/
+### 🗺️ PDX Hub - https://pdxhub.vercel.app/
 
 A real-time interactive map for Portland, OR, aggregating public data from multiple sources. It visualizes live police and fire dispatches, weather and transit alerts, bridge lifts, road closures, water advisories, and nine GIS safety overlays from City of Portland open data.
 
-### 🏙️ CodePDX
-https://www.codepdx.org/
+### 🏙️ CodePDX - https://www.codepdx.org/
 
 Volunteer software engineer contributing to civic technology projects involving GIS systems, public data, and community infrastructure.
 
