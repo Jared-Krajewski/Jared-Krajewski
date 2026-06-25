@@ -22,24 +22,15 @@ https://apps.apple.com/us/app/trailscale/id6761669404
 
 Cross-platform iOS, Android, and Web backpacking gear management and trip planning platform built with React Native and TypeScript.
 
-- Offline-first architecture
-- Interactive gear analytics and visualizations
-- Built for the way I actually pack for trips
-
 ### 🚂 Is A Train Blocking 12th?
 https://trainstrainstrains.com/
 
 A real-time monitor for one of Portland's most infamous rail crossings.
 
-- "Live" camera feeds from ODOT
-- Computer vision and automation
-- Public infrastructure data
-- Built because I got tired of showing up to a train
-
 ### 🪐 Planet Game
 https://apps.apple.com/us/app/planet-game-merge-puzzle/id6758787519
 
-An ongoing game development project exploring simulation systems, procedural generation, and interactive worlds.
+An ongoing game development project exploring 2d physics and Unity.
 
 ### 🏋️ Jim
 https://apps.apple.com/us/app/jim-workout-logger/id6766997118
